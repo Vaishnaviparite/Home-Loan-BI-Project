@@ -4,7 +4,7 @@ This project uses the Home Loan dataset to analyze customer applications, approv
 # <img width="926" height="734" alt="Screenshot 2025-11-10 014222" src="https://github.com/user-attachments/assets/f5b45fd9-1390-4e1e-803b-2f62193a3ce9" />
 # <img width="1919" height="957" alt="image" src="https://github.com/user-attachments/assets/c9106712-78e9-41a9-af4e-b4f1e99dba4c" />
 
-________________________________________
+
 # Dataset Description
 
 The dataset contains detailed information about applicants, their financial background, and loan outcomes, including:
@@ -12,7 +12,7 @@ The dataset contains detailed information about applicants, their financial back
 •	Financial Data: Applicant Income, Co-applicant Income, Loan Amount, Loan Term.
 •	Loan Information: Credit History, Property Area, Loan Status (Approved/Rejected).
 This data provides a holistic view of loan performance across demographic and financial variables.
-________________________________________
+
 # Business Objectives
 
 The primary objectives of this BI analysis are:
@@ -21,7 +21,7 @@ The primary objectives of this BI analysis are:
 •	Study credit history impact on approval probability.
 •	Compare loan approval rates across property areas and genders.
 •	Develop interactive dashboards to allow management to explore data across multiple filters.
-________________________________________
+
 # Tools & Techniques
 
 Microsoft Power BI
@@ -43,21 +43,21 @@ o	Bar Chart: Loan approvals by property area and gender.
 o	Stacked Column Chart: Education and self-employment impact on loan status.
 o	Card Visuals: Total Applications, Approval %, Average Income, and Average Loan Amount.
 o	Filters/Slicers: Gender, Property Area, Education, and Credit History.
-________________________________________
+
 # Deliverables
 
 •	Cleaned Power BI dataset with transformed fields.
 •	Interactive Home Loan Dashboard summarizing insights visually.
 •	Key performance indicators (KPIs) for approval rate and financial metrics.
 •	Word-based summary report (this document).
-________________________________________
+
 # Key Insights
 
 •	Applicants with a positive credit history had over 80% approval rate.
 •	Urban property areas showed higher loan approval frequency.
 •	Graduate applicants had higher approval chances compared to non-graduates.
 •	Self-employed individuals tended to apply for higher loan amounts, with slightly lower approval rates.
-________________________________________
+
 # Future Enhancements
 
 •	Predictive Analytics: Implement Power BI or Python forecasting models to predict loan approval likelihood based on applicant profile.
@@ -65,4 +65,3 @@ ________________________________________
 •	Geographical Expansion: Add map visuals showing loan distribution by city or state.
 •	Time-based Analysis: Include year/month fields to track approval trends over time.
 •	Integration with Power Automate: Automate monthly loan performance reports for business users.
-
