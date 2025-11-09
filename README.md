@@ -2,7 +2,7 @@
 
 This project uses the Home Loan dataset to analyze customer applications, approval patterns, and financial performance related to home loan processing. Using Microsoft Power BI, the goal is to evaluate approval rates, loan amount distribution, applicant demographics, and key financial indicators to improve business efficiency and decision-making in the loan approval process.
 # <img width="926" height="734" alt="Screenshot 2025-11-10 014222" src="https://github.com/user-attachments/assets/f5b45fd9-1390-4e1e-803b-2f62193a3ce9" />
-# <img width="1920" height="1080" alt="Screenshot (333)" src="https://github.com/user-attachments/assets/b24a1fdb-fa58-4ee9-982b-a027608cacc4" />
+# <img width="1919" height="957" alt="image" src="https://github.com/user-attachments/assets/c9106712-78e9-41a9-af4e-b4f1e99dba4c" />
 
 ________________________________________
 # Dataset Description
